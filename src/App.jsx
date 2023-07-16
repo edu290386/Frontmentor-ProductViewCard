@@ -6,7 +6,6 @@ import productmobile from './assets/image-product-mobile.jpg'
 
 function App() {
 
-
   return (
     <>
      <div className="flex flex-col justify-center items-center h-[100vh] bg-[hsl(30,38%,92%)] border md:flex-row">
